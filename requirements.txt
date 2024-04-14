@@ -1,0 +1,5 @@
+selenium
+requests
+dateparser
+selenium_stealth
+pandas
